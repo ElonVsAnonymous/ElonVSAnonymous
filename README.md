@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+This is the official repository for #ElonVsAnonymous event.
+
+Feel free to check the code that will be used to deploy the smart contracts the day of the fairlaunch.
+
+This adds an extra layer of trust since we're showing what we'll be using upfront.
+
+Hope you choose the correct side! ⚡
 
 <!--
 **ElonVsAnonymous/ElonVSAnonymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
