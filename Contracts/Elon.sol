@@ -1,6 +1,6 @@
 /**
 
-   #ANONYMOUS features:
+   #Elon features:
    10% transaction fee that goes to the pot wallet
 
    Decide your side, buy the coin, and win twice!
